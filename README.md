@@ -33,14 +33,14 @@ PS D:\PowerShellScripts> Add-Books -Title "The Moon is a Harsh Mistress" -Author
 PS D:\PowerShellScripts> Get-Books
 
 
-LogTime       : 2013-09-29 01:24:46
-DateStarted   : 8/30/2013 7:00:00 AM
-Title         : The Count of Monte Cristo
-DateCompleted : 9/29/2013 8:24:46 PM
-Author        : Alexander Dumas
+LogTime       : 2013-09-29 01:24:46<br/>
+DateStarted   : 8/30/2013 7:00:00 AM<br/>
+Title         : The Count of Monte Cristo<br/>
+DateCompleted : 9/29/2013 8:24:46 PM<br/>
+Author        : Alexander Dumas<br/>
 
-LogTime       : 2013-09-29 01:25:23
-DateStarted   : 8/20/2013 7:00:00 AM
-Title         : The Moon is a Harsh Mistress
-DateCompleted : 8/29/2013 7:00:00 AM
-Author        : Robert Heinlein
+LogTime       : 2013-09-29 01:25:23<br/>
+DateStarted   : 8/20/2013 7:00:00 AM<br/>
+Title         : The Moon is a Harsh Mistress<br/>
+DateCompleted : 8/29/2013 7:00:00 AM<br/>
+Author        : Robert Heinlein<br/>
