@@ -7,6 +7,8 @@
 #
 # TODO: Allow separate locations for logfile and script file
 #
+# TODO: Preserve order of properties when call Get-$LoggerName
+#
 Function New-Logger ($LoggerName, $Arguments="", $Location="", [switch]$AddToProfile)
 {
 <#
@@ -146,7 +148,7 @@ Written by Kevin Doblosky (kdoblosky@gmail.com). Licensed under GPLv3 (http://ww
     # Write generated functions to text file
     Set-Content -Value $text -Path $scriptFileName
 
-    Write-Output "Created functions Write-$LoggerName and Read-$LoggerName"
+    Write-Output "Created functions Add-$LoggerName and Get-$LoggerName"
     Write-Output "Functions stored in $scriptFileName"
 
     # Dot source the file name, so that functions get loaded.
