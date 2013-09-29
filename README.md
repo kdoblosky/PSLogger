@@ -1,8 +1,7 @@
-
-Name:         PSLogger
-Version:      0.1
-Author:       Kevin Doblosky (kdoblosky@gmail.com)
-Source:       https://github.com/kdoblosky/PSLogger
+Name:         PSLogger<br/>
+Version:      0.1<br/>
+Author:       Kevin Doblosky (kdoblosky@gmail.com)<br/>
+Source:       https://github.com/kdoblosky/PSLogger<br/>
 Last Updated: 2013-09-29
 
 
